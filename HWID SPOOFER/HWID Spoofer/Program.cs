@@ -10,10 +10,10 @@ namespace HWID_Spoofer
     {
         static void Main(string[] args)
         {
-            Console.Title = "Hentai Spoofer | V1.0 | hanime.tv";
+            Console.Title = "Nigger Mode";
             Misc.DrawASCII();
-            Misc.HashText("Welcome To Your First Spoofer");
-            Misc.HashText("Press Any Key To Load Options...");
+            Misc.HashText("Bem vindo a essa bosta kjkksks");
+            Misc.HashText("Aperta qualquer tecla ai poha");
             Console.ReadKey();
             Console.Clear();
             Misc.DrawASCII();
@@ -25,9 +25,9 @@ namespace HWID_Spoofer
             {
                 Console.Clear();
                 Misc.DrawASCII();
-                Misc.HashText("Spoofing Diskdrive!");
+                Misc.HashText("Mudando o hwid");
                 Spoof.SpoofHDD();
-                Misc.HashText("Spoofed Diskdrive!");
+                Misc.HashText("Pronto mudei :)");
                 Console.ReadKey();
 
             }
@@ -43,7 +43,7 @@ namespace HWID_Spoofer
             }
             else
             {
-                Misc.HashText("OK retard Maybe Type Right Next Time");
+                Misc.HashText("Escreve direito fdp");
             }
         }
     }
