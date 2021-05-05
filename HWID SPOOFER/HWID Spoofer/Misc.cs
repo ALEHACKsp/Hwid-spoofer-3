@@ -14,16 +14,16 @@ namespace HWID_Spoofer
 
             Console.WriteLine();
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("                               ██░ ██ ▓█████  ███▄    █ ▄▄▄█████▓ ▄▄▄       ██▓");
-            Console.WriteLine("                              ▓██░ ██▒▓█   ▀  ██ ▀█   █ ▓  ██▒ ▓▒▒████▄    ▓██▒");
-            Console.WriteLine("                              ▒██▀▀██░▒███   ▓██  ▀█ ██▒▒ ▓██░ ▒░▒██  ▀█▄  ▒██▒");
-            Console.WriteLine("                              ░▓█ ░██ ▒▓█  ▄ ▓██▒  ▐▌██▒░ ▓██▓ ░ ░██▄▄▄▄██ ░██░");
-            Console.WriteLine("                              ░▓█▒░██▓░▒████▒▒██░   ▓██░  ▒██▒ ░  ▓█   ▓██▒░██░");
-            Console.WriteLine("                               ▒ ░░▒░▒░░ ▒░ ░░ ▒░   ▒ ▒   ▒ ░░    ▒▒   ▓▒█░░▓  ");
-            Console.WriteLine("                               ▒ ░▒░ ░ ░ ░  ░░ ░░   ░ ▒░    ░      ▒   ▒▒ ░ ▒ ░");
-            Console.WriteLine("                               ░  ░░ ░   ░      ░   ░ ░   ░        ░   ▒    ▒ ░");
-            Console.WriteLine("                               ░  ░  ░   ░  ░         ░                ░  ░ ░  ");
-            Console.WriteLine("                                                                               ");
+            Console.WriteLine("M");
+            Console.WriteLine("A");
+            Console.WriteLine("M");
+            Console.WriteLine("A");
+            Console.WriteLine("E");
+            Console.WriteLine("U");
+            Console.WriteLine("P");
+            Console.WriteLine("O");
+            Console.WriteLine("H");
+            Console.WriteLine("A");
 
      
    
