@@ -1,6 +1,0 @@
-C:\Users\this nigga is mario\Desktop\Hwid-spoofer-main\HWID SPOOFER\HWID Spoofer\bin\Debug\HWID Spoofer.exe.config
-C:\Users\this nigga is mario\Desktop\Hwid-spoofer-main\HWID SPOOFER\HWID Spoofer\bin\Debug\HWID Spoofer.exe
-C:\Users\this nigga is mario\Desktop\Hwid-spoofer-main\HWID SPOOFER\HWID Spoofer\bin\Debug\HWID Spoofer.pdb
-C:\Users\this nigga is mario\Desktop\Hwid-spoofer-main\HWID SPOOFER\HWID Spoofer\obj\Debug\HWID Spoofer.csproj.CoreCompileInputs.cache
-C:\Users\this nigga is mario\Desktop\Hwid-spoofer-main\HWID SPOOFER\HWID Spoofer\obj\Debug\HWID Spoofer.exe
-C:\Users\this nigga is mario\Desktop\Hwid-spoofer-main\HWID SPOOFER\HWID Spoofer\obj\Debug\HWID Spoofer.pdb
