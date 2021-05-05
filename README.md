@@ -1,2 +1,3 @@
 # Hwid-spoofer
-trash spoofer edited by me prob detected dont use :)
+# Prob detected dont use :I
+Trash spoofer edited by me 
